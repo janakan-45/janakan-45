@@ -4,7 +4,8 @@
 
 <p align="center">
   💻 Software Engineering Student at <b>SLIIT Northern Uni</b><br>
-  🌱 Currently working with <b>Django, React, and Wagtail</b><br>
+  🚀 Currently working as a <b>Full Stack Developer Intern</b> at <b>Vulture Lines Private Limited (India)</b><br>
+  🌱 Exploring <b>Django, React, and Wagtail</b><br>
   ⚡ Fun fact: I love building real-world projects with Python  
 </p>
 
@@ -26,7 +27,7 @@
 ## 🛠 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,nodejs,mysql,git,vscode,java,cpp,php,bootstrap&theme=dark" />
 </p>
 
 ---
@@ -35,6 +36,16 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=janakan-45&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:sakthiveljanakan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sakthivel-janakan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/janakan-45"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
