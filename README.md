@@ -1,170 +1,167 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║          JANAKAN.S — GitHub Profile README                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sakthivel%20Janakan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=55&descSize=16" width="100%" />
+<!-- Animated Typing Header -->
+<a href="https://portfolio-jana-opal.vercel.app/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there%2C+I'm+Janakan+%F0%9F%91%8B;Full+Stack+Dev+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Glowing divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+<!-- Profile avatar with animated border — use a consistent wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3d62,100:00D9FF&height=200&section=header&text=Janakan%20Sakthivel&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=58&animation=twinkling" width="100%" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-### 🧑‍💻 About Me
+<!-- About Me Section -->
+## 🚀 About Me
 
-> *Third-year BSc (Hons) Software Engineering student and active Full Stack Developer Intern, building real-world web systems with Django, React and REST APIs.*
+</div>
 
-- 🎓 **University of Bedfordshire** via SLIIT Northern Uni
-- 💼 **Intern @ Vulture Lines Tech Mgmt Pvt Ltd** · India
-- 🌱 Currently deep in **Wagtail CMS + Quantum ML**
-- 🔬 Research: *Quantum-Enhanced Soil Nutrient Prediction*
-- 🗣️ Languages: **Tamil**, **English**
-- 📍 Nallur, Jaffna, Sri Lanka
-- 📬 sakthiveljanakan@gmail.com
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janakan-45&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=C084FC&icon_color=818CF8&text_color=E2E8F0&rank_icon=github&include_all_commits=true&count_private=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Tech Stack
+```python
+class Janakan:
+    name         = "Janakan Sakthivel"
+    location     = "Sri Lanka 🇱🇰"
+    education    = "BSc (Hons) Computer Science & Software Engineering @ UOB"
+    current_role = "Full Stack Developer Intern @ Vulture Lines Pvt Ltd 🇮🇳"
+    portfolio    = "https://portfolio-jana-opal.vercel.app/"
+    learning     = ["Django", "React", "Wagtail", "System Design"]
+    fun_fact     = "I turn ☕ into clean, scalable code"
+    ask_me_about = ["Django REST APIs", "React Components", "Python Projects"]
+```
 
 <div align="center">
 
-### ⚡ Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- Quick Links Badges -->
+<br/>
 
-### 🌐 Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail_CMS-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-portfolio--jana--opal.vercel.app-00D9FF?style=for-the-badge&labelColor=0D1117)](https://portfolio-jana-opal.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-sakthiveljanakan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sakthiveljanakan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakthivel--janakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/sakthivel-janakan)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<br/>
 
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔬 AI & Research
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-1AAAA0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=janakan-45&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+## 🛠️ Tech Arsenal
 
-### 🔬 Quantum Soil Prediction
-**Research Project — University of Bedfordshire**
+<!-- Animated skill icons -->
+<img src="https://skillicons.dev/icons?i=python,django,react,nodejs,mysql,postgresql,git,github,vscode,java,cpp,php,bootstrap,html,css,js,typescript,figma&theme=dark&perline=9" />
 
-Hybrid Quantum-Classical ML system for predicting soil nutrients (N, P, K). Compared classical models (Linear Regression, SVR, Random Forest, XGBoost) with a quantum circuit model.
+<br/><br/>
 
-**Stack:** `PennyLane` `PyTorch` `FastAPI` `React.js`
+<!-- Extra badges for tools not in skillicons -->
+![Wagtail](https://img.shields.io/badge/Wagtail-CMS-43B02A?style=flat-square&logo=wagtail&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-<td width="50%">
-
-### 🏢 Atom Lift CRM
-**[atomlift.technuob.com](https://atomlift.technuob.com)**
-
-CRM platform for lift service management — technician dashboards, customer portals, service request tracking, and mobile app APIs.
-
-**Stack:** `Django (Wagtail)` `Tailwind CSS` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Peakoo Travels
-**Startup Project**
-
-AI-powered travel platform with itinerary generation, tour package management, booking workflows, and mobile-optimized UI.
-
-**Stack:** `Django REST` `React.js` `Python`
-
-</td>
-<td width="50%">
-
-### 🎨 Vigneshwara Paints
-**[vigneshwara-paints.com](https://vigneshwara-paints.com)**
-
-Full backend for a paint manufacturing company — product management, inquiry handling, and content management via Django architecture.
-
-**Stack:** `Django` `REST APIs` `MySQL`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- GitHub Stats & Top Langs side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=janakan-45&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="165" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janakan-45&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&cache_seconds=1800" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janakan-45&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=C084FC&text_color=E2E8F0&cache_seconds=1800" height="200" />
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=janakan-45&theme=midnight-purple&hide_border=true&background=0D001A&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&dates=94A3B8" height="200" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=janakan-45&theme=transparent&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=00D9FF" height="165"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janakan-45&theme=tokyo-night&bg_color=0D001A&color=C084FC&line=818CF8&point=F472B6&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=janakan-45&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=1&column=6" />
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-sakthiveljanakan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthiveljanakan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sakthivel--janakan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivel-janakan)
-[![GitHub](https://img.shields.io/badge/GitHub-janakan--45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janakan-45)
-[![Phone](https://img.shields.io/badge/Phone-%2B94_71_424_2074-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94714242074)
-
-![Profile Views](https://komarev.com/ghpvc/?username=janakan-45&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janakan-45&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF&hide_border=false&border_color=00D9FF&title_color=FFFFFF" width="95%" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
+<div align="center">
+
+## 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=janakan-45&theme=darkhub&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 What I'm Up To
+
+</div>
+
+| 🔭 Currently Building | 🌱 Currently Learning | 💡 Fun Fact |
+|:---:|:---:|:---:|
+| Full-stack web apps with Django + React | Wagtail CMS & advanced React patterns | I once debugged for 6hrs — it was a missing semicolon 😂 |
+
+| 🤝 Open To | 📫 Reach Me At | 🌐 Portfolio |
+|:---:|:---:|:---:|
+| Collaboration & Open Source | sakthiveljanakan@gmail.com | [portfolio-jana-opal.vercel.app](https://portfolio-jana-opal.vercel.app/) |
+
+---
+
+<div align="center">
+
+## 📌 Featured Projects
+
+<!-- You can update these with your actual repos -->
+[![Fruit Basket](https://github-readme-stats.vercel.app/api/pin/?username=janakan-45&repo=Fruit-Basket&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&icon_color=00D9FF)](https://github.com/janakan-45/Fruit-Basket)
+&nbsp;&nbsp;
+[![BMI Calculator](https://github-readme-stats.vercel.app/api/pin/?username=janakan-45&repo=BMI-CALCULATOR&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&icon_color=00D9FF)](https://github.com/janakan-45/BMI-CALCULATOR)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake animation (you need to set up GitHub Actions for this — see note below) -->
+## 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janakan-45/janakan-45/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janakan-45/janakan-45/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/janakan-45/janakan-45/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer" width="100%" />
+
+<sub>⚡ <b>Let's build something awesome together!</b> — Check out my <a href="https://portfolio-jana-opal.vercel.app/">portfolio</a> or drop me an <a href="mailto:sakthiveljanakan@gmail.com">email</a></sub>
+
+</div>
